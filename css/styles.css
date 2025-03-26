@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.hero {
+    background: url('../assets/images/hero.jpg') no-repeat center center/cover;
+    color: white;
+    padding: 50px 0;
+}
+
+h1,
+h2 {
+    color: #333;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: black;
+}
